@@ -1,6 +1,6 @@
 Package.describe({
-  name: "hedcet:cordova-google-plus-native-sign-in",
-  summary: "native SignIn with Google Plus in Meteor Cordova Android/IOS App",
+  name: "mxab:cordova-google-plus-native-sign-in",
+  summary: "native SignIn with Google Plus in Meteor Cordova Android/IOS App (temporary release until official pr is merged)",
   documentation: "README.md",
   version: "1.1.0",
   git: "https://github.com/sujith3g/meteor-cordova-google-plus.git"
